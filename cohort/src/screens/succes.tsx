@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Button from '../components/button'
-import imageToAdd from "../components/regsucces.png";
+import imageToAdd from "../components/The character thumb up.png";
 
 const Success = () => {
     const [value, setValue] = React.useState('');
